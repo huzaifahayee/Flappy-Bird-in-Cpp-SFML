@@ -2,7 +2,6 @@
 
 A professional, object-oriented Flappy Bird clone built with **C++** and **SFML**. This project serves as a showcase of software engineering principles and real-time game development.
 
-![Flappy Bird Gameplay Placeholder](https://via.placeholder.com/600x400?text=Flappy+Bird+Gameplay)
 
 ## Features 🚀
 - **Smooth Physics:** Realistic gravity and flapping mechanics.
