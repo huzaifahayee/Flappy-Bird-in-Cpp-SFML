@@ -1,0 +1,12 @@
+﻿  Game.cpp
+E:\Projects\Flappy bird-C++ SFML\Game.cpp(191,84): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\Projects\Flappy bird-C++ SFML\Game.cpp(191,84): warning C4244:         with
+E:\Projects\Flappy bird-C++ SFML\Game.cpp(191,84): warning C4244:         [
+E:\Projects\Flappy bird-C++ SFML\Game.cpp(191,84): warning C4244:             T=float
+E:\Projects\Flappy bird-C++ SFML\Game.cpp(191,84): warning C4244:         ]
+E:\Projects\Flappy bird-C++ SFML\Game.cpp(191,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\Projects\Flappy bird-C++ SFML\Game.cpp(191,64): warning C4244:         with
+E:\Projects\Flappy bird-C++ SFML\Game.cpp(191,64): warning C4244:         [
+E:\Projects\Flappy bird-C++ SFML\Game.cpp(191,64): warning C4244:             T=float
+E:\Projects\Flappy bird-C++ SFML\Game.cpp(191,64): warning C4244:         ]
+  Flappy bird-C++ SFML.vcxproj -> E:\Projects\Flappy bird-C++ SFML\x64\Debug\Flappy bird-C++ SFML.exe
